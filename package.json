@@ -1,0 +1,12 @@
+{
+  "name": "phaser-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "phaser": "^2.6.2",
+    "http-server":  "^0.11.1"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
